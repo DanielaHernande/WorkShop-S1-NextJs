@@ -1,3 +1,4 @@
+import Button from "../_components/button/button";
 import Menu from "../_components/menu/menu";
 import SessionLeft from "../_components/session/sessionLeft";
 import SessionCard from "../_components/sessionCard/sessionCard";
@@ -10,6 +11,7 @@ export default function Home() {
       <SessionCollection />
       <Menu />
       <SessionCard />
+      <Button />
     </>
   );
 }
