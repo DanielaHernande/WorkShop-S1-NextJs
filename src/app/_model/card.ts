@@ -6,7 +6,7 @@ export const cardProduct: CardCategory[] = [
         id: "1",
         name: "Ribbed Tank Top",
         price: "$16.95",
-        img: "/img/img1.jpg",
+        img: "/img/img7.jpg",
         colors: ["#FFD700", "#000000"]
     },
 
@@ -14,7 +14,7 @@ export const cardProduct: CardCategory[] = [
         id: "2",
         name: "Ribbed Modal T-shirt",
         price: "From $16.95",
-        img: "/img/img1.jpg",
+        img: "/img/img8.jpg",
         colors: ["#FFD700", "#000000"]
     },
 
@@ -22,14 +22,14 @@ export const cardProduct: CardCategory[] = [
         id: "3",
         name: "Oversized Printed T-Shirt",
         price: "$10.00",
-        img: "/img/img1.jpg",
+        img: "/img/img9.jpg",
     },
 
     {
         id: "4",
         name: "Oversized Printed T-Shirt",
         price: "$16.95",
-        img: "/img/img1.jpg",
+        img: "/img/img10.jpg",
         colors: ["#FFD700", "#000000", "#FFFFFF"]
     },
 
@@ -37,7 +37,7 @@ export const cardProduct: CardCategory[] = [
         id: "5",
         name: "V-neck linen T-shirt",
         price: "$114.95",
-        img: "/img/img1.jpg",
+        img: "/img/img11.jpg",
         colors: ["#FFD700"]
     },
 
@@ -45,7 +45,7 @@ export const cardProduct: CardCategory[] = [
         id: "6",
         name: "Loose Fit Sweatshirt",
         price: "$10.00",
-        img: "/img/img1.jpg",
+        img: "/img/img12.jpg",
         colors: ["#FFD700", "#FFD700", "#000000", "#FFFFFF", "#FFD700", "#000000", "#FFFFFF"] 
     },
 
@@ -53,7 +53,7 @@ export const cardProduct: CardCategory[] = [
         id: "7",
         name: "Refular Fit OXford Shirt",
         price: "$10.00",
-        img: "/img/img1.jpg",
+        img: "/img/img13.jpg",
         colors: ["#FFD700", "#FFD700", "#FFD700", "#000000", "#FFFFFF"]
     },
 
@@ -61,7 +61,7 @@ export const cardProduct: CardCategory[] = [
         id: "8",
         name: "Loose Fit Hoodie",
         price: "$9.95",
-        img: "/img/img1.jpg",
+        img: "/img/img14.jpg",
         colors: ["#FFD700", "#FFD700", "#FFD700"]
     },
 ];

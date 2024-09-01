@@ -6,17 +6,17 @@ export default function SessionShop() {
     {
       title: "Essential Basics",
       subtitle: "UP TO 30% OFF",
-      imageSrc: "/img/img1.jpg",
+      imageSrc: "/img/img15.jpg",
     },
     {
       title: "Athleisure Wear",
       subtitle: "UP TO 30% OFF",
-      imageSrc: "/img/img1.jpg",
+      imageSrc: "/img/img16.jpg",
     },
     {
       title: "Seasonal Favorites",
       subtitle: "UP TO 30% OFF",
-      imageSrc: "/img/img1.jpg",
+      imageSrc: "/img/img17.jpg",
     },
   ];
 

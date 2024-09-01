@@ -4,7 +4,7 @@ const categoriesShop = [
   {
     title: "Essential Basics",
     subtitle: "UP TO 30% OFF",
-    imageSrc: "/img/img1.jpg",
+    imageSrc: "/img/img7.jpg",
   },
   {
     title: "Athleisure Wear",

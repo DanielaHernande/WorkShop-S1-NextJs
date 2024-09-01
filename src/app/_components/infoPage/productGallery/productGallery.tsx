@@ -3,10 +3,10 @@ import Image from "next/image";
 export default function ProductGallery() {
   const images = [
     "/img/img1.jpg",
+    "/img/img18.jpg",
+    "/img/img18.jpg",
     "/img/img1.jpg",
-    "/img/img1.jpg",
-    "/img/img1.jpg",
-    "/img/img1.jpg",
+    "/img/img18.jpg",
   ];
 
   return (
