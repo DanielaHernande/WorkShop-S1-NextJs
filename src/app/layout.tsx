@@ -1,6 +1,9 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
+import Header from "./_components/homePage/header/header";
+import TopBar from "./_components/homePage/topBar/topBar";
+import Footer from "./_components/homePage/footer/footer";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -16,7 +19,18 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <head>
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+          />
+      </head>
+      <body className={inter.className}>
+        <TopBar />
+        <Header />
+        {children}
+        <Footer />
+        </body>
     </html>
   );
 }
