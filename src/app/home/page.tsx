@@ -1,4 +1,5 @@
 import Button from "../_components/button/button";
+import Map from "../_components/map/map";
 import Menu from "../_components/menu/menu";
 import Payment from "../_components/payment/payment";
 import SessionLeft from "../_components/session/sessionLeft";
@@ -16,6 +17,7 @@ export default function Home() {
       <Button />
       <SessionShop />
       <Payment />
+      <Map />
     </>
   );
 }
