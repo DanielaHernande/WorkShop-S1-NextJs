@@ -1,3 +1,4 @@
+import ProductDetails from "@/app/_components/infoPage/productDetail/productDetail";
 import ProductGallery from "@/app/_components/infoPage/productGallery/productGallery";
 
 export default function PageProduct() {
@@ -9,7 +10,7 @@ export default function PageProduct() {
             <ProductGallery />
     
             {/* Detalles del producto */}
-            
+            <ProductDetails />
           </div>
     
           {/* Extras como políticas de devolución, comparaciones, etc. */}
