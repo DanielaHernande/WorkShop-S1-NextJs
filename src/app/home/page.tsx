@@ -1,3 +1,4 @@
+import Brand from "../_components/brand/brand";
 import Button from "../_components/button/button";
 import Map from "../_components/map/map";
 import Menu from "../_components/menu/menu";
@@ -18,6 +19,7 @@ export default function Home() {
       <SessionShop />
       <Payment />
       <Map />
+      <Brand />
     </>
   );
 }
