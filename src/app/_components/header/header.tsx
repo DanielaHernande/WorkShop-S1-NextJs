@@ -2,7 +2,7 @@ export default function Header() {
     
     return (
         <header>
-            <div className="flex justify-around mt-2">
+            <div className="flex justify-around mt-5 border-b-2 h-14">
 
                 <div>
                     <span className="mr-3 text-sm"><i className="fa-solid fa-language"></i> USD <i className="fa-solid fa-chevron-down"></i></span>
