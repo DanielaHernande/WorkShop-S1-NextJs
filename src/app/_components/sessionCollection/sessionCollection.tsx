@@ -3,7 +3,7 @@ import { categories } from "@/app/_model/categoria";
 
 export default function SessionCollection() {
   return (
-    <div className="bg-[rgb(250, 247, 242)] p-10 ">
+    <div className="bg-red-200 p-10 ">
       <div className="flex justify-between">
         <h2 className="text-left text-3xl mb-10 font-semibold">
           Season Collections
