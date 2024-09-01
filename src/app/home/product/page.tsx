@@ -1,5 +1,6 @@
 import ProductDetails from "@/app/_components/infoPage/productDetail/productDetail";
 import ProductGallery from "@/app/_components/infoPage/productGallery/productGallery";
+import ProductDescription from "@/app/_components/infoPage/productInformation/productInformation";
 
 export default function PageProduct() {
     
@@ -17,7 +18,7 @@ export default function PageProduct() {
           
     
           {/* Descripción del producto con pestañas */}
-          
+          <ProductDescription />
         </div>
       );
     }
