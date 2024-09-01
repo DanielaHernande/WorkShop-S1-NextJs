@@ -1,8 +1,9 @@
+import SessionLeft from "../_components/session/sessionLeft";
 
 export default function Home() {
   return (
     <>
-      <h1>Hola</h1>
+      <SessionLeft />
     </>
   );
 }
